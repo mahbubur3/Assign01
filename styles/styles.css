@@ -233,5 +233,9 @@ footer p {
 
 .footer-links a {
     text-decoration: none;
-    color: #4c4c4c;
+    color: #686868;
+}
+
+.profile-detail {
+    color: #686868;
 }
