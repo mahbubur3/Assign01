@@ -29,6 +29,7 @@ nav h1 {
     color: white;
     font-size: 16px;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .logo-color {
@@ -205,6 +206,7 @@ main {
     font-size: 16px;
     font-weight: bold;
     border: none;
+    cursor: pointer;
 }
 
 footer {
@@ -238,4 +240,12 @@ footer p {
 
 .profile-detail {
     color: #686868;
+}
+
+.custom-button:hover {
+    background-color: rgb(88, 35, 140);
+}
+
+.custom-button-two:hover {
+    background-color: rgb(88, 35, 140);;
 }
