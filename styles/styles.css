@@ -110,3 +110,45 @@ main {
 .secondary-dark {
     color: #4c4c4c;
 }
+
+.sec-three h3 {
+    font-size: 42px;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 150px;
+}
+
+.sec-three-content {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px #0000001a;
+    text-align: left;
+}
+
+.card h4 {
+    font-size: 20px;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.profile img {
+    border-radius: 50%;
+}
+
+.profile h5 {
+    margin-bottom: 0px;
+}
+
+.profile p {
+    margin-top: 5px;
+}
