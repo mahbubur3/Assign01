@@ -209,4 +209,29 @@ main {
 
 footer {
     text-align: center;
+    background-color: white
+}
+
+footer h1 {
+    font-size: 90px;
+    margin-bottom: 10px;
+    
+}
+
+footer p {
+    max-width: 500px;
+    margin: 20px auto;
+    color: #4c4c4c;
+}
+
+.footer-links {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #4c4c4c;
 }
