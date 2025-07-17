@@ -6,6 +6,7 @@
 
 body {
     margin: 0;
+    background-color: #f6f6fd;
 }
 
 nav {
@@ -127,8 +128,9 @@ main {
 .card {
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 2px 10px #0000001a;
+    box-shadow: 0 1px 8px #0000001a;
     text-align: left;
+    background-color: rgba(255, 255, 255, 0.992);
 }
 
 .card h4 {
@@ -203,4 +205,8 @@ main {
     font-size: 16px;
     font-weight: bold;
     border: none;
+}
+
+footer {
+    text-align: center;
 }
